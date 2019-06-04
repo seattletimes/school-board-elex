@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    
+  </head>
+  <body>
+
+    <%= t.include("partials/_nav.html") %>
+
+      <main class="interactive"> 
+        <div class="header">
+        <h1>Who's running for the Seattle School Board?</h1>
+            <p style="font-family:ff-meta-serif-web-pro, Georgia, serif;font-size:24px;text-align:center;">Here are the people who want to keep the largest school-district in the state accountable.</p>
+          </div>
+         
+        
+          <div class="header">
+            
+
+            <p class="chatter">With four of seven seats up for grabs this November, this race decide the majority of School Board's membership, and the representatives of North and West Seattle neighborhoods. Only one incumbent, School Board president Leslie Harris, has decided run again.</p>
+            <hr style="width:30%">
+            <p class="chatter"><a href="#"><strong>Read our complete coverage of the 2019 Seattle School Board elections</strong></a></p>
+            <hr style="width:30%">
+            <p class="chatter"><strong><a href="./assets/SPSD2018_DirDist.pdf" target="_blank">View the school board districts map.</a></strong></p>
+            
+          <p class="chatter" style="font-style:italic">Reporting by Dahlia Bazzaz. Published XXX XX, 2019 | updated on XXX XX, 2019</p>
+            </div>
+
+          
+        </div>
+
+        <div class="container">
+
+      <% json.Candidates.forEach(function(item, i) { %>
+      <%= t.include("_details.html", { item: item, index: i }) %>
+    <% }) %>
+
+        </div>
+                 
+     </main>
+    
+    <%= t.include("partials/_navBottom.html") %>
+
+   
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>

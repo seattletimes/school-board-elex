@@ -1,0 +1,34 @@
+<section>
+            <div class="block">
+               <div>
+               <img class="candidate-photo" src="./assets/<%= item.Photo %>.jpg"/>
+               
+               <p class="label">District <%= item.District %></p>
+
+               <p class="candidate-info"><%= item.Name %>, <%= item.Age %><br></p>
+               <p class="candidate-stats"><%= item.Occupation %></p>
+               </div>
+            
+               <div>
+                  
+                <p>
+                  <strong></strong> <%= item.Summary %> </p>
+                  <label for="more<%= item.Photo %><%= index %>" class="excerpt name"><a>More info</a></strong></label>
+                  <input type="checkbox" style="display:none;" id="more<%= item.Photo %><%= index %>"/>
+                  <div class="responses">
+                     
+                     <p><strong>Why are you running?</strong> <%= item.Running %></p>
+                     <p><strong>What is your biggest priority?</strong> <%= item.Priority %>
+                     </p>
+                     <p><strong>Contributions:</strong> <%= item.Contributions %>
+                     </p><p>
+                     <strong>Voted in last election?</strong> <%= item.Voted %>
+                     </p>
+                     <p> <strong>Where do you live? </strong><%= item.Neighborhood %>
+                     </p>
+                     <p class="name"> 
+                     <a href="<%= item.Website %>"><%= item.Website %></a></p>
+                  </div>
+                  </div>
+               </div>
+</section>

@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "petty-reversion"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": ""
+    }
+  },
+  "title": "Who's running for the Seattle School Board?",
+  "description": "Here are the people who want to keep the largest school-district in the state accountable.",
+  "url": "",
+  "image": "assets/social.jpg",
+  "sheets": ["1UU03dWslG-8wgLSmxouqExLVeeqBil0Nlyf2G5jjx6w"],
+  "standout": false,
+  "embedded": false,
+  "production": false
+}

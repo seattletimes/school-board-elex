@@ -1,0 +1,331 @@
+[
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Shannon Braddock",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Pavel Goberman",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Lisa Herbold",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Charles Redmond",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Phillip Tavel",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Arturo Robles",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Jody Rushmer",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Brianna Thomas",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "1",
+    "district": "1",
+    "name": "Karl Wirsing",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "2",
+    "district": "2",
+    "name": "Joshua Farris",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "2",
+    "district": "2",
+    "name": "Bruce Harrell",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "2",
+    "district": "2",
+    "name": "Tammy Morales",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "3",
+    "district": "3",
+    "name": "Pamela Banks",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "3",
+    "district": "3",
+    "name": "Morgan Beach",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "3",
+    "district": "3",
+    "name": "Leon Carter",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "3",
+    "district": "3",
+    "name": "Rod Hearne",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "3",
+    "district": "3",
+    "name": "Kshama Sawant",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "4",
+    "district": "4",
+    "name": "Jean Godden",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "4",
+    "district": "4",
+    "name": "Rob Johnson",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "4",
+    "district": "4",
+    "name": "Michael J. Maddux",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "4",
+    "district": "4",
+    "name": "Abel Pacheco",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "4",
+    "district": "4",
+    "name": "Tony Provine",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Sandy Brown",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Debadutta Dash",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Mercedes Elizalde",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Debora Juarez",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Kris Lethin",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Hugh Russell",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "David Toledo",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "5",
+    "district": "5",
+    "name": "Halei Watkins",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "6",
+    "district": "6",
+    "name": "Jon Lisbin",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "6",
+    "district": "6",
+    "name": "Mike O'Brien",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "6",
+    "district": "6",
+    "name": "Stan Shaufler",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "6",
+    "district": "6",
+    "name": "Catherine Weatbrook",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "7",
+    "district": "7",
+    "name": "Sally Bagshaw",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "7",
+    "district": "7",
+    "name": "Gus Hartmann",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "7",
+    "district": "7",
+    "name": "Deborah Zech-Artis",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "8",
+    "district": "8",
+    "name": "Tim Burgess",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "8",
+    "district": "8",
+    "name": "Jonathan Grant",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "8",
+    "district": "8",
+    "name": "John Persak",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "8",
+    "district": "8",
+    "name": "John Roderick",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Alan Bassok",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Bill Bradburd",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Lorena González",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Omari Tahir-Garrett",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Thomas Tobin",
+    "results": "",
+    "called": ""
+  },
+  {
+    "title": "9",
+    "district": "9",
+    "name": "Alex Tsimerman",
+    "results": "",
+    "called": ""
+  }
+]

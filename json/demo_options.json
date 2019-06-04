@@ -1,0 +1,127 @@
+{
+  "Age": [
+    {
+      "id": "minors",
+      "label": "Under 18"
+    },
+    {
+      "id": "other-age",
+      "label": "18 to 64",
+      "chartOnly": true
+    },
+    {
+      "id": "seniors",
+      "label": "65 and over"
+    }
+  ],
+  "Income": [
+    {
+      "id": "low-income",
+      "label": "Under $25K"
+    },
+    {
+      "id": "other-income",
+      "label": "$25K - $100K",
+      "chartOnly": true
+    },
+    {
+      "id": "med-income",
+      "label": "Over $100K",
+      "altLabel": "$100K - $250K"
+    },
+    {
+      "id": "high-income",
+      "label": "Over $250K"
+    }
+  ],
+  "Race & Ethnicity": [
+    {
+      "id": "white",
+      "label": "White"
+    },
+    {
+      "id": "black",
+      "label": "Black"
+    },
+    {
+      "id": "asian",
+      "label": "Asian"
+    },
+    {
+      "id": "hispanic",
+      "label": "Hispanic"
+    },
+    {
+      "id": "other",
+      "label": "Two or more races/other",
+      "chartOnly": true
+    }
+  ],
+  "Language": [
+    {
+      "id": "english",
+      "label": "Speak English at home",
+      "chartOnly": true
+    },
+    {
+      "id": "nonenglish",
+      "label": "Don't speak English at home",
+      "altLabel": "Other language"
+    }
+  ],
+  "Marital status": [
+    {
+      "id": "single",
+      "label": "Never married"
+    },
+    {
+      "id": "married",
+      "label": "Married"
+    },
+    {
+      "id": "divorced",
+      "label": "Divorced"
+    },
+    {
+      "id": "widowed",
+      "label": "Widowed",
+      "chartOnly": true
+    }
+  ],
+  "Housing": [
+    {
+      "id": "renters",
+      "label": "Renters"
+    },
+    {
+      "id": "owners",
+      "label": "Owners"
+    }
+  ],
+   "Transportation to work": [
+    {
+      "id": "drive",
+      "label": "Drive alone"
+    },
+    {
+      "id": "carpool",
+      "label": "Carpool"
+    },
+    {
+      "id": "transit",
+      "label": "Public transit"
+    },
+    {
+      "id": "bike",
+      "label": "Bicycle"
+    },
+    {
+      "id": "walk",
+      "label": "Walk"
+    },
+    {
+      "id": "home",
+      "label": "Work at home"
+    }
+  ]
+}
